@@ -37,8 +37,3 @@
     padding-bottom: 20px;
 }
 
-@media(max-width: @screen-xs-max){
-    .collapse {
-        background-color:white;
-    }
-}
